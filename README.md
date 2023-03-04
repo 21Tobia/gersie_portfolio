@@ -12,3 +12,6 @@ https://github.com/21Tobia/gersie_portfolio/tree/main/NLP%20HW-2
 
 porfolio_3
 https://github.com/21Tobia/gersie_portfolio/blob/main/HomeWork3_worldNet.ipynb%20-%20Colaboratory.pdf
+
+Porfolio_4
+https://github.com/21Tobia/gersie_portfolio/tree/main/NLP_HW3
