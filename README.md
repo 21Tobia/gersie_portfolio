@@ -18,3 +18,6 @@ https://github.com/21Tobia/gersie_portfolio/tree/main/NLP_HW3
 
 Porfolio_5
 https://github.com/21Tobia/gersie_portfolio/blob/main/Parsing%20Sentenses.pdf
+
+Portfolio_6
+https://github.com/21Tobia/gersie_portfolio/tree/main/NLP%20HW6
