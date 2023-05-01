@@ -24,3 +24,6 @@ https://github.com/21Tobia/gersie_portfolio/tree/main/NLP%20HW6
 
 porfolio _7
 https://github.com/21Tobia/gersie_portfolio
+
+Porfolio _8
+https://github.com/21Tobia/gersie_portfolio
